@@ -4,7 +4,7 @@ data_split = "train"
 dataset_text_field = "text"
 
 # memory optemization & model loading
-model_name = "unsloth/Phi-3-mini-4k-instruct-bnb-4bit"
+model_name = "unsloth/Qwen2.5-Coder-1.5B-bnb-4bit"
 max_seq_length = 1024
 dtype = None
 load_in_4bit = True

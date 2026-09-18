@@ -15,11 +15,30 @@ notebooks/
 commands.txt
 
 # Generated model folders inside pipeline
-pipeline/tuning/ollama_gguf_model/
-pipeline/tuning/ollama_gguf_model_gguf/
-pipeline/tuning/vllm_merged_model/
-pipeline/tuning/unsloth_compiled_cache/
-pipeline/tuning/smart_evaluation_results_batched.csv
+v1_pipeline/pipeline/tuning/ollama_gguf_model/
+v1_pipeline/pipeline/tuning/ollama_gguf_model_gguf/
+v1_pipeline/pipeline/tuning/vllm_merged_model/
+v1_pipeline/pipeline/tuning/unsloth_compiled_cache/
+v1_pipeline/pipeline/tuning/smart_evaluation_results_batched.csv
+
+v2_pipeline/pipeline/tuning/ollama_gguf_model/
+v2_pipeline/pipeline/tuning/ollama_gguf_model_gguf/
+v2_pipeline/pipeline/tuning/vllm_merged_model/
+v2_pipeline/pipeline/tuning/unsloth_compiled_cache/
+v2_pipeline/pipeline/tuning/smart_evaluation_results_batched.csv
+v2_pipeline/pipeline/tuning/testing/50_tests_report.md
+v2_pipeline/pipeline/tuning/testing/200_tests_report.md
+v2_pipeline/pipeline/tuning/testing/200_tests_report.md
+
+# v3_pipeline/pipeline/tuning/ollama_gguf_model/
+# v3_pipeline/pipeline/tuning/ollama_gguf_model_gguf/
+# v3_pipeline/pipeline/tuning/vllm_merged_model/
+# v3_pipeline/pipeline/tuning/unsloth_compiled_cache/
+# v3_pipeline/pipeline/tuning/smart_evaluation_results_batched.csv
+# v3_pipeline/pipeline/tuning/testing/50_tests_report.md
+# v3_pipeline/pipeline/tuning/testing/200_tests_report.md
+# v3_pipeline/pipeline/tuning/testing/200_tests_report.md
+
 
 # model files
 *.gguf

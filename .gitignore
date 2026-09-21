@@ -47,6 +47,9 @@ v3_pipeline/pipeline/tuning/testing/200_tests_v3_report.md
 # you can go to: mohamedelawakey.com to read more from blogs page
 fine-tuning-essentials.md
 
+# notebooks
+sql-fine-tuning-model-finall-training-v3-ipynb.ipynb
+
 # model files
 *.gguf
 *.onnx

@@ -3,7 +3,7 @@ import json
 import time
 
 url = "http://localhost:11434/api/generate"
-model_name = "sql_coder_v2:latest"
+model_name = "sql_coder_v3:latest"
 
 questions = [
     # ----------------- LEVEL 1: VERY EASY (Simple SELECT & WHERE) -----------------
